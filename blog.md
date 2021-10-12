@@ -1,5 +1,7 @@
 #My Favorite things
 
+
+![An image of my cat](cheeto.jpg)
 ##My small Family
 my family at home right now consists of my boyfirend and my two little kittys. My boyfirends name is Andrew and I met him through playing a video game called Splatoon and the nintendo wii u. he moved here to Washington from Wisconsin a little over a year ago now and I am so lucky to have him.
 
@@ -12,6 +14,7 @@ In my free time I mostly watch youtube videos about video games, travel, or just
 * Abrodeinjapan
 * Timtracker
 * Phillipdefranco
+[click here](http://youtube.com)to check them out!
 
 I also occasionally play video games.
 My favorite games:
@@ -21,5 +24,6 @@ My favorite games:
 * donkey kong 64
 * animal crossing
 * splatoon
+![An image from the game splatoon](https://www.videogameschronicle.com/files/2019/03/hero-title-cover.jpg)
 
 Thank you for reading my blog!
